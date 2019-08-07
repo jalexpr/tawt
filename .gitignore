@@ -5,3 +5,4 @@ log
 *.log
 temp
 *.ipr
+parser/
