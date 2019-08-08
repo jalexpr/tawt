@@ -1,5 +1,5 @@
 *.iml
-target
+target/
 .idea
 log
 *.log
@@ -8,3 +8,7 @@ temp
 parser/
 ms/
 jmorfsdk/
+gama/
+rfc/
+awf/
+sp/

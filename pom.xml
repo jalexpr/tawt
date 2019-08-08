@@ -15,6 +15,10 @@
         <module>parser</module>
         <module>ms</module>
         <module>jmorfsdk</module>
+        <module>gama</module>
+        <module>rfc</module>
+        <module>awf</module>
+        <module>sp</module>
     </modules>
 
     <properties>
@@ -25,6 +29,10 @@
         <version.tawt.parser>0.0.1</version.tawt.parser>
         <version.tawt.ms>1.2.5</version.tawt.ms>
         <version.tawt.jmorfsdk>2.10.9</version.tawt.jmorfsdk>
+        <version.tawt.gama>1.1.3</version.tawt.gama>
+        <version.tawt.rfc>0.0.2</version.tawt.rfc>
+        <version.tawt.awf>1.1.2</version.tawt.awf>
+        <version.tawt.sp>1.1.3</version.tawt.sp>
     </properties>
 
     <dependencyManagement>
@@ -32,8 +40,33 @@
 <!--            TAWT-->
             <dependency>
                 <groupId>${project.groupId}</groupId>
+                <artifactId>parser</artifactId>
+                <version>${version.tawt.parser}</version>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
                 <artifactId>ms</artifactId>
                 <version>${version.tawt.ms}</version>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>jmorfsdk</artifactId>
+                <version>${version.tawt.jmorfsdk}</version>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>gama</artifactId>
+                <version>${version.tawt.gama}</version>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>rfc</artifactId>
+                <version>${version.tawt.rfc}</version>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>awf</artifactId>
+                <version>${version.tawt.awf}</version>
             </dependency>
 
 <!--            jalexpr-->
@@ -54,6 +87,7 @@
                 <artifactId>logback-classic</artifactId>
                 <version>1.2.3</version>
             </dependency>
+
 <!--            JUnit-->
             <dependency>
                 <groupId>org.junit.jupiter</groupId>
