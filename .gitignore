@@ -5,10 +5,3 @@ log
 *.log
 temp
 *.ipr
-parser/
-ms/
-jmorfsdk/
-gama/
-rfc/
-awf/
-sp/

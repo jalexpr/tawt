@@ -1,0 +1,3 @@
+[submodule "graphematic-parser"]
+	path = graphematic-parser
+	url = ../graphematic-parser.git
