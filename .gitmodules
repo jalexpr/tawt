@@ -1,3 +1,6 @@
 [submodule "graphematic-parser"]
 	path = graphematic-parser
 	url = ../graphematic-parser.git
+[submodule "morphological-structures"]
+	path = morphological-structures
+	url = ../morphological-structures.git
