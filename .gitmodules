@@ -4,3 +4,6 @@
 [submodule "morphological-structures"]
 	path = morphological-structures
 	url = ../morphological-structures.git
+[submodule "jmorfsdk"]
+	path = jmorfsdk
+	url = https://github.com/jalexpr/jmorfsdk.git
