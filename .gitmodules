@@ -16,3 +16,6 @@
 [submodule "ambiguity-words-filter"]
 	path = ambiguity-words-filter
 	url = ../ambiguity-words-filter.git
+[submodule "syntactic-parser"]
+	path = syntactic-parser
+	url = ../syntactic-parser.git

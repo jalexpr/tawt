@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.textanalysis.tawt</groupId>
-    <artifactId>tawt-parent</artifactId>
     <name>_parent</name>
     <description>TAWT parent module</description>
+    <artifactId>tawt-parent</artifactId>
     <packaging>pom</packaging>
     <version>0.0.2</version>
 
@@ -18,7 +18,7 @@
         <module>gama</module>
         <module>rules-for-compatibility</module>
         <module>ambiguity-words-filter</module>
-        <module>sp</module>
+        <module>syntactic-parser</module>
     </modules>
 
     <properties>
@@ -32,7 +32,7 @@
         <version.tawt.gama>1.1.4</version.tawt.gama>
         <version.tawt.rules-for-compatibility>0.0.2</version.tawt.rules-for-compatibility>
         <version.tawt.ambiguity-words-filter>1.1.3</version.tawt.ambiguity-words-filter>
-        <version.tawt.sp>1.1.3</version.tawt.sp>
+        <version.tawt.syntactic-parser>1.1.4</version.tawt.syntactic-parser>
     </properties>
 
     <dependencyManagement>
