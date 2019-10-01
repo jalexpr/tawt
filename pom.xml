@@ -17,7 +17,7 @@
         <module>jmorfsdk</module>
         <module>gama</module>
         <module>rules-for-compatibility</module>
-        <module>awf</module>
+        <module>ambiguity-words-filter</module>
         <module>sp</module>
     </modules>
 
@@ -31,7 +31,7 @@
         <version.tawt.jmorfsdk>2.10.10</version.tawt.jmorfsdk>
         <version.tawt.gama>1.1.4</version.tawt.gama>
         <version.tawt.rules-for-compatibility>0.0.2</version.tawt.rules-for-compatibility>
-        <version.tawt.awf>1.1.2</version.tawt.awf>
+        <version.tawt.ambiguity-words-filter>1.1.3</version.tawt.ambiguity-words-filter>
         <version.tawt.sp>1.1.3</version.tawt.sp>
     </properties>
 
@@ -65,8 +65,8 @@
             </dependency>
             <dependency>
                 <groupId>${project.groupId}</groupId>
-                <artifactId>awf</artifactId>
-                <version>${version.tawt.awf}</version>
+                <artifactId>ambiguity-words-filter</artifactId>
+                <version>${version.tawt.ambiguity-words-filter}</version>
             </dependency>
 
 <!--            jalexpr-->

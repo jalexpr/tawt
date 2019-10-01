@@ -13,3 +13,6 @@
 [submodule "rules-for-compatibility"]
 	path = rules-for-compatibility
 	url = ../rules-for-compatibility.git
+[submodule "ambiguity-words-filter"]
+	path = ambiguity-words-filter
+	url = ../ambiguity-words-filter.git
