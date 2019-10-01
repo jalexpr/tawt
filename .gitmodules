@@ -6,4 +6,7 @@
 	url = ../morphological-structures.git
 [submodule "jmorfsdk"]
 	path = jmorfsdk
-	url = https://github.com/jalexpr/jmorfsdk.git
+	url = ../jmorfsdk.git
+[submodule "gama"]
+	path = gama
+	url = ../gama.git
