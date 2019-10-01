@@ -10,3 +10,6 @@
 [submodule "gama"]
 	path = gama
 	url = ../gama.git
+[submodule "rules-for-compatibility"]
+	path = rules-for-compatibility
+	url = ../rules-for-compatibility.git
