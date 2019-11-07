@@ -9,7 +9,7 @@
     <description>TAWT parent module</description>
     <artifactId>tawt-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 
     <modules>
         <module>graphematic-parser</module>
@@ -27,12 +27,12 @@
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
 
         <version.tawt.graphematic-parser>0.0.3</version.tawt.graphematic-parser>
-        <version.tawt.morphological-structures>1.2.7</version.tawt.morphological-structures>
-        <version.tawt.jmorfsdk>2.10.11</version.tawt.jmorfsdk>
-        <version.tawt.gama>1.1.5</version.tawt.gama>
-        <version.tawt.rules-for-compatibility>0.0.3</version.tawt.rules-for-compatibility>
-        <version.tawt.ambiguity-words-filter>1.1.4</version.tawt.ambiguity-words-filter>
-        <version.tawt.syntactic-parser>1.1.5</version.tawt.syntactic-parser>
+        <version.tawt.morphological-structures>1.2.8</version.tawt.morphological-structures>
+        <version.tawt.jmorfsdk>2.10.12</version.tawt.jmorfsdk>
+        <version.tawt.gama>1.1.6</version.tawt.gama>
+        <version.tawt.rules-for-compatibility>0.0.4</version.tawt.rules-for-compatibility>
+        <version.tawt.ambiguity-words-filter>1.1.5</version.tawt.ambiguity-words-filter>
+        <version.tawt.syntactic-parser>1.1.6</version.tawt.syntactic-parser>
     </properties>
 
     <dependencyManagement>
