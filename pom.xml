@@ -32,7 +32,7 @@
         <version.tawt.gama>1.1.6</version.tawt.gama>
         <version.tawt.rules-for-compatibility>0.0.4</version.tawt.rules-for-compatibility>
         <version.tawt.ambiguity-words-filter>1.1.5</version.tawt.ambiguity-words-filter>
-        <version.tawt.syntactic-parser>1.1.6</version.tawt.syntactic-parser>
+        <version.tawt.syntactic-parser>1.1.7</version.tawt.syntactic-parser>
     </properties>
 
     <dependencyManagement>
