@@ -28,7 +28,7 @@
 
         <version.tawt.graphematic-parser>0.0.3</version.tawt.graphematic-parser>
         <version.tawt.morphological-structures>1.2.8</version.tawt.morphological-structures>
-        <version.tawt.jmorfsdk>2.10.12</version.tawt.jmorfsdk>
+        <version.tawt.jmorfsdk>2.10.13</version.tawt.jmorfsdk>
         <version.tawt.gama>1.1.6</version.tawt.gama>
         <version.tawt.rules-for-compatibility>0.0.4</version.tawt.rules-for-compatibility>
         <version.tawt.ambiguity-words-filter>1.1.5</version.tawt.ambiguity-words-filter>
@@ -74,6 +74,14 @@
                 <groupId>com.github.jalexpr</groupId>
                 <artifactId>TemplateWrapperClasses</artifactId>
                 <version>12223956f2</version>
+            </dependency>
+
+
+<!--            dependency-->
+            <dependency>
+                <groupId>com.google.code.gson</groupId>
+                <artifactId>gson</artifactId>
+                <version>2.8.6</version>
             </dependency>
 
 <!--            Logger-->
