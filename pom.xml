@@ -28,7 +28,7 @@
 
         <version.tawt.graphematic-parser>0.0.3</version.tawt.graphematic-parser>
         <version.tawt.morphological-structures>1.2.11</version.tawt.morphological-structures>
-        <version.tawt.jmorfsdk>2.10.14</version.tawt.jmorfsdk>
+        <version.tawt.jmorfsdk>2.10.15</version.tawt.jmorfsdk>
         <version.tawt.gama>1.1.6</version.tawt.gama>
         <version.tawt.rules-for-compatibility>0.0.4</version.tawt.rules-for-compatibility>
         <version.tawt.ambiguity-words-filter>1.1.5</version.tawt.ambiguity-words-filter>
