@@ -19,6 +19,7 @@
         <module>rules-for-compatibility</module>
         <module>ambiguity-words-filter</module>
         <module>syntactic-parser</module>
+        <module>morphological-dictionary</module>
     </modules>
 
     <properties>
@@ -33,6 +34,7 @@
         <version.tawt.rules-for-compatibility>0.0.4</version.tawt.rules-for-compatibility>
         <version.tawt.ambiguity-words-filter>1.1.5</version.tawt.ambiguity-words-filter>
         <version.tawt.syntactic-parser>1.1.7</version.tawt.syntactic-parser>
+        <version.tawt.morphological-dictionary>0.0.1</version.tawt.morphological-dictionary>
 
         <version.ru.textanalysis.common>45fbf62797</version.ru.textanalysis.common>
     </properties>
@@ -54,6 +56,11 @@
                 <groupId>${project.groupId}</groupId>
                 <artifactId>jmorfsdk</artifactId>
                 <version>${version.tawt.jmorfsdk}</version>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>morphological-dictionary</artifactId>
+                <version>${version.tawt.morphological-dictionary}</version>
             </dependency>
             <dependency>
                 <groupId>${project.groupId}</groupId>

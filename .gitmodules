@@ -19,3 +19,6 @@
 [submodule "syntactic-parser"]
 	path = syntactic-parser
 	url = ../syntactic-parser.git
+[submodule "morphological-dictionary"]
+	path = morphological-dictionary
+	url = ../morphological-dictionary.git
