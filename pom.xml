@@ -28,7 +28,7 @@
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
 
         <version.tawt.graphematic-parser>0.0.3</version.tawt.graphematic-parser>
-        <version.tawt.morphological-structures>1.2.13</version.tawt.morphological-structures>
+        <version.tawt.morphological-structures>1.2.14</version.tawt.morphological-structures>
         <version.tawt.jmorfsdk>2.10.16</version.tawt.jmorfsdk>
         <version.tawt.gama>1.1.6</version.tawt.gama>
         <version.tawt.rules-for-compatibility>0.0.4</version.tawt.rules-for-compatibility>
@@ -87,7 +87,7 @@
             <dependency>
                 <groupId>com.github.jalexpr</groupId>
                 <artifactId>TemplateWrapperClasses</artifactId>
-                <version>12223956f2</version>
+                <version>4bfb1f698e</version>
             </dependency>
 
 
