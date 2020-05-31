@@ -87,7 +87,7 @@
             <dependency>
                 <groupId>com.github.jalexpr</groupId>
                 <artifactId>TemplateWrapperClasses</artifactId>
-                <version>4bfb1f698e</version>
+                <version>35180b4757</version>
             </dependency>
 
 
