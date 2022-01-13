@@ -9,7 +9,7 @@
     <description>TAWT parent module</description>
     <artifactId>tawt-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.1.0</version>
+    <version>0.0.4</version>
 
     <modules>
         <module>graphematic-parser</module>
