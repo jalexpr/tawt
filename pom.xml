@@ -28,7 +28,7 @@
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
 
         <version.tawt.graphematic-parser>0.0.4</version.tawt.graphematic-parser>
-        <version.tawt.morphological-structures>1.3.1</version.tawt.morphological-structures>
+        <version.tawt.morphological-structures>1.3.2</version.tawt.morphological-structures>
         <version.tawt.morphological-dictionary>0.1.0</version.tawt.morphological-dictionary>
         <version.tawt.jmorfsdk>2.11.0</version.tawt.jmorfsdk>
         <version.tawt.gama>1.1.8</version.tawt.gama>
