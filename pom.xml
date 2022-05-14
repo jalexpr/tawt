@@ -9,7 +9,7 @@
     <description>TAWT parent module</description>
     <artifactId>tawt-parent</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
 
     <modules>
         <module>graphematic-parser</module>
@@ -27,14 +27,14 @@
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
 
-        <version.tawt.graphematic-parser>0.0.4</version.tawt.graphematic-parser>
-        <version.tawt.morphological-structures>1.3.3</version.tawt.morphological-structures>
-        <version.tawt.morphological-dictionary>0.1.0</version.tawt.morphological-dictionary>
-        <version.tawt.jmorfsdk>2.11.0</version.tawt.jmorfsdk>
-        <version.tawt.gama>1.1.8</version.tawt.gama>
-        <version.tawt.rules-for-compatibility>0.0.6</version.tawt.rules-for-compatibility>
-        <version.tawt.ambiguity-words-filter>1.1.7</version.tawt.ambiguity-words-filter>
-        <version.tawt.syntactic-parser>1.1.8</version.tawt.syntactic-parser>
+        <version.tawt.graphematic-parser>0.0.5</version.tawt.graphematic-parser>
+        <version.tawt.morphological-structures>1.3.4</version.tawt.morphological-structures>
+        <version.tawt.morphological-dictionary>0.1.1</version.tawt.morphological-dictionary>
+        <version.tawt.jmorfsdk>2.11.1</version.tawt.jmorfsdk>
+        <version.tawt.gama>1.1.9</version.tawt.gama>
+        <version.tawt.rules-for-compatibility>0.0.7</version.tawt.rules-for-compatibility>
+        <version.tawt.ambiguity-words-filter>1.1.8</version.tawt.ambiguity-words-filter>
+        <version.tawt.syntactic-parser>1.1.9</version.tawt.syntactic-parser>
 
         <version.ru.textanalysis.common>45fbf62797</version.ru.textanalysis.common>
     </properties>
@@ -91,8 +91,8 @@
             <!--            jalexpr-->
             <dependency>
                 <groupId>com.github.jalexpr</groupId>
-                <artifactId>TemplateWrapperClasses</artifactId>
-                <version>82f419d598</version>
+                <artifactId>jalexpr-utils</artifactId>
+                <version>55ae1be51f</version>
             </dependency>
 
 
