@@ -30,7 +30,7 @@
         <version.tawt.graphematic-parser>0.1.0</version.tawt.graphematic-parser>
         <version.tawt.morphological-structures>1.4.0</version.tawt.morphological-structures>
         <version.tawt.morphological-dictionary>0.2.0</version.tawt.morphological-dictionary>
-        <version.tawt.jmorfsdk>2.11.1</version.tawt.jmorfsdk>
+        <version.tawt.jmorfsdk>2.12.0</version.tawt.jmorfsdk>
         <version.tawt.gama>1.1.9</version.tawt.gama>
         <version.tawt.rules-for-compatibility>0.0.7</version.tawt.rules-for-compatibility>
         <version.tawt.ambiguity-words-filter>1.1.8</version.tawt.ambiguity-words-filter>
