@@ -22,3 +22,6 @@
 [submodule "morphological-dictionary"]
 	path = morphological-dictionary
 	url = ../morphological-dictionary.git
+[submodule "relationship-networks"]
+	path = relationship-networks
+	url = https://github.com/jalexpr/relationship-networks
