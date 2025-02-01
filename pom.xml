@@ -9,7 +9,7 @@
     <description>TAWT parent module</description>
     <artifactId>tawt-parent</artifactId>
     <packaging>pom</packaging>
-    <version>3.5.0</version>
+    <version>3.6.0</version>
 
     <modules>
         <module>graphematic-parser</module>
@@ -28,15 +28,15 @@
         <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>${project.build.sourceEncoding}</project.reporting.outputEncoding>
 
-        <version.tawt.graphematic-parser>3.5.0</version.tawt.graphematic-parser>
-        <version.tawt.morphological-structures>3.5.0</version.tawt.morphological-structures>
-        <version.tawt.morphological-dictionary>3.5.0</version.tawt.morphological-dictionary>
-        <version.tawt.jmorfsdk>3.5.0</version.tawt.jmorfsdk>
-        <version.tawt.gama>3.5.0</version.tawt.gama>
-        <version.tawt.rules-for-compatibility>3.5.0</version.tawt.rules-for-compatibility>
-        <version.tawt.ambiguity-words-filter>3.5.0</version.tawt.ambiguity-words-filter>
-        <version.tawt.syntactic-parser>3.5.0</version.tawt.syntactic-parser>
-        <version.tawt.relationship-networks>3.5.0</version.tawt.relationship-networks>
+        <version.tawt.graphematic-parser>3.6.0</version.tawt.graphematic-parser>
+        <version.tawt.morphological-structures>3.6.0</version.tawt.morphological-structures>
+        <version.tawt.morphological-dictionary>3.6.0</version.tawt.morphological-dictionary>
+        <version.tawt.jmorfsdk>3.6.0</version.tawt.jmorfsdk>
+        <version.tawt.gama>3.6.0</version.tawt.gama>
+        <version.tawt.rules-for-compatibility>3.6.0</version.tawt.rules-for-compatibility>
+        <version.tawt.ambiguity-words-filter>3.6.0</version.tawt.ambiguity-words-filter>
+        <version.tawt.syntactic-parser>3.6.0</version.tawt.syntactic-parser>
+        <version.tawt.relationship-networks>3.6.0</version.tawt.relationship-networks>
 
         <version.ru.textanalysis.common>45fbf62797</version.ru.textanalysis.common>
     </properties>
